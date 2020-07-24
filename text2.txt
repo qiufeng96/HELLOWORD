@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-adfeewaf.
-=======
-today is sun.
-this is brach
-ha ha 
-today is sun.
-this is brach
-ha ha 
-today is sun.
-this is brach
-ha ha 
->>>>>>> 29485cc03f14ee1f995c35605b7e6c28661a4b3f
+asdfdasfsdafdasdfafsdafsdasfd
